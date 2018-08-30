@@ -9,3 +9,4 @@ public float convenience functions totalCost() for the total cost of the bond of
 profit of the bond offering (shares * cost * yield).
 
 With the implementation of greedy algorithms, override the compare function using lambda expression. Store all the bonds in a priorityqueue/heap in descending yeild order. Invest as much as possible from the top of the heap.
+
